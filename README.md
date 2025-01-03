@@ -25,3 +25,7 @@ psql --version
 ```bash
 psql -U user
 ```
+
+```bash
+docker stop  postgres-example
+```
