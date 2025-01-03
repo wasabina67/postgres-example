@@ -17,3 +17,11 @@ docker ps -a
 ```bash
 docker exec -it postgres-example bash
 ```
+
+```bash
+psql --version
+```
+
+```bash
+psql -U user
+```
