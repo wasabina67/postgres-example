@@ -15,4 +15,5 @@ docker ps -a
 ```
 
 ```bash
+docker exec -it postgres-example bash
 ```
