@@ -1,6 +1,8 @@
 # postgres-example
 Postgres example
 
+## Commands
+
 ```bash
 docker run -d --rm \
 --name postgres-example \
