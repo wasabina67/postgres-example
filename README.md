@@ -9,3 +9,10 @@ docker run -d --rm \
 -p 5432:5432 \
 postgres:latest
 ```
+
+```bash
+docker ps -a
+```
+
+```bash
+```
